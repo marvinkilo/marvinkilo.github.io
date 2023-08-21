@@ -20,7 +20,7 @@ timezone: Asia/Calcutta
 
 title: cybersecuirty specialist # the main title
 
-tagline: A cyber-warrior striving to protect networks around the world # it will display as the sub-title
+tagline: A cyber-warrior striving to protect networks around the world. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
