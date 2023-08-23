@@ -8,4 +8,4 @@ I am a person who loves to find the ins and outs of things that make them work. 
 TryHackMe - https://tryhackme.com/p/Dangerhulk,
 HackTheBox - still a noob here
 and at last, I love being myself.  
-You can [Download Resume](../assets/Resume/Rushi_Resume.pdf) here.
+You can [Download Resume](../assets/Resume/Rushi_Resume.pdf){:target="_blank"} here.
