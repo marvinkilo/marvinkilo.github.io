@@ -1,8 +1,7 @@
 ---
 title: "How to solve Kernel panic- not syncing : IO-APIC + timer doesnt work"
 date: 2023-08-22
-categories:
-  - Blogging
+categories: [Blogging,Tutorial]
 ---
 
 ## How to solve Kernel panic- not syncing : IO-APIC + timer doesnt work?
