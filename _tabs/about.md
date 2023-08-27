@@ -8,7 +8,7 @@ I am an individual driven by a profound curiosity to unravel the intricacies tha
 
 As I continue on this journey, my goal is not only to fortify digital infrastructures but also to raise awareness about the importance of cybersecurity in today's interconnected world. I am resolute in my dedication to learning, adapting, and contributing to the ongoing battle to ensure the integrity and security of sensitive information and networks.  
 
-On a regular basis, I delve into TryHackMe's interactive rooms, where I navigate through realistic simulations of cybersecurity scenarios.TryHackMe - https://tryhackme.com/p/Dangerhulk,  
+On a regular basis, I delve into TryHackMe's interactive rooms, where I navigate through realistic simulations of cybersecurity scenarios.I am right now on top 1 percentile in TryHackMe - https://tryhackme.com/p/Dangerhulk,  
 ![TryHackMe Badge](/assets/images/Dangerhulk.png)  
 HackTheBox - still a noob here
 and at last, I love being myself.  
