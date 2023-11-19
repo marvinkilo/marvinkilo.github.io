@@ -13,4 +13,4 @@ On a regular basis, I delve into TryHackMe's interactive rooms, where I navigate
 ![TryHackMe Badge](/assets/images/Dangerhulk.png)  
 HackTheBox - still a noob here
 and at last, I love being myself.  
-You can [Download My Resume](../assets/Resume/Rushi_Resume.pdf){:target="\_blank"} here.
+You can [Download My Resume](../assets/Resume/Y_Rushi_Resume.pdf){:target="\_blank"} here.
